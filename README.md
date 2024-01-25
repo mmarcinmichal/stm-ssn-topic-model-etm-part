@@ -1,1 +1,1 @@
-# stm-ssn-topic-model-etm-part
+# Spiking Topic Model (STM) - Embedding Topic Model (ETM) experiment part  
